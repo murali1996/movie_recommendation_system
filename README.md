@@ -17,5 +17,5 @@ Unlike other popular movie recommendations obtained from the ratings given by a 
 - To edit the user-id in main_regression file
 - python main_regression <userID>
 
-Ex: python main_regression 902
-UserID: [1,1680]
+- Ex: python main_regression 902
+- The UserIDs range [1,1680]
