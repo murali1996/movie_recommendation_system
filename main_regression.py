@@ -184,7 +184,7 @@ if __name__=="__main__":
     if len(sys.argv)<2:
         print(len(sys.argv))
         #raise Exception('Not sufficient number of inputs')
-    user_id = sys.argv[1]
+    user_id = int(sys.argv[1])
     print( main_func(user_id) )
 
 
